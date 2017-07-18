@@ -1,0 +1,8 @@
+Django==1.10
+EasyProcess==0.2.2
+PyVirtualDisplay==0.2
+argparse==1.2.1
+gunicorn==19.6.0
+requests==2.11.0
+selenium==2.53.6
+wsgiref==0.1.2
