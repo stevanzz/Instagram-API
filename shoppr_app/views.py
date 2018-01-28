@@ -153,8 +153,8 @@ def update_media():
 	display = Display(visible=0, size=(800, 600))
 	display.start()
 	driver = webdriver.Chrome()
-	username = "kwkm92"
-	password = "P34^J@eYok#l"
+	username = "#username"
+	password = "#password"
 	login(driver, username, password)
 	for i in range(len(following)):
 		check = False
